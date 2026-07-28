@@ -2,14 +2,11 @@
 
 🎓 Ciência de Dados - Mackenzie
 📚 Pós-graduação em Análise de Dados - Insper (em andamento)
-🔎 Buscando oportunidades como Analista/Cientista de Dados
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-3b8aa977/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/bbrunogoms)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunogomes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrunogomes&layout=compact&theme=tokyonight)
-
 
 ### Tecnologias que Utilizo
 <div align="center"><br/>
@@ -26,7 +23,8 @@
 ### 🌎 Idiomas
 <div align="center"><br/>
 <img alt="Português" src="https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge" />
-<img alt="Inglês" src="https://img.shields.io/badge/Inglês-Intermediário-yellow?style=for-the-badge" />
+<img alt="Inglês" src="https://img.shields.io/badge/Inglês%20C1-Alumni-blue?style=for-the-badge" />
+<img alt="Espanhol" src="https://img.shields.io/badge/Espanhol%20B2-Instituto%20Cervantes-yellow?style=for-the-badge" />
 </div><br/>
 
 Apaixonado por tecnologias e fascinado pelo poder transformador dos dados.
