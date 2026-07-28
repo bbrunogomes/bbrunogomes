@@ -22,4 +22,6 @@
 </div><br/>
 
 Apaixonado por tecnologias e fascinado pelo poder transformador dados.
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrunogomes&layout=compact&theme=dark)
