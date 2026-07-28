@@ -24,11 +24,9 @@ Cientista de Dados apaixonado por transformar dados brutos em decisões estraté
 </div><br/>
 
 ### 🌎 Idiomas
-<div align="center"><br/>
-<img alt="Português" src="https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge" />
-<img alt="Inglês" src="https://img.shields.io/badge/Inglês%20C1-Alumni-blue?style=for-the-badge" />
-<img alt="Espanhol" src="https://img.shields.io/badge/Espanhol%20B2-Instituto%20Cervantes-yellow?style=for-the-badge" />
-</div><br/>
+- 🇧🇷 Português - Nativo
+- 🇺🇸 Inglês - C1 (Alumni)
+- 🇪🇸 Espanhol - B2 (Instituto Cervantes)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunogomes&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbrunogomes&theme=tokyonight)
