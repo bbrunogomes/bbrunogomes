@@ -1,8 +1,6 @@
 ### Olá Eu sou o Bruno Gomes ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-3b8aa977/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bbrunogoms@gmail.com)
-[![Whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11952474762)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/bbrunogoms)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunogomes&show_icons=true&theme=tokyonight)
