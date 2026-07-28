@@ -30,7 +30,6 @@ Cientista de Dados apaixonado por transformar dados brutos em decisões estraté
 <img alt="Espanhol" src="https://img.shields.io/badge/Espanhol%20B2-Instituto%20Cervantes-yellow?style=for-the-badge" />
 </div><br/>
 
-### 📊 GitHub Stats
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunogomes&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbrunogomes&theme=tokyonight)
 
