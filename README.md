@@ -7,16 +7,6 @@ Cientista de Dados apaixonado por transformar dados brutos em decisões estraté
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-3b8aa977/)
 
-<br/>
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Nome do Projeto 1](link-do-repo) | Descrição curta do problema resolvido e principal insight | Python, SQL |
-| [Nome do Projeto 2](link-do-repo) | Descrição curta do problema resolvido e principal insight | Power BI, Excel |
-
-<br/>
 
 ### 🛠️ Tecnologias que Utilizo
 <div align="center"><br/>
