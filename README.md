@@ -1,12 +1,24 @@
 ### Olá, eu sou o Bruno Gomes ✌️
 
+Cientista de Dados apaixonado por transformar dados brutos em decisões estratégicas. Formado em Ciência de Dados pela Mackenzie, atualmente aprofundando meus conhecimentos em Análise de Dados no Insper.
+
 🎓 Ciência de Dados - Mackenzie
 📚 Pós-graduação em Análise de Dados - Insper (em andamento)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gomes-3b8aa977/)
 
+<br/>
 
-### Tecnologias que Utilizo
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Nome do Projeto 1](link-do-repo) | Descrição curta do problema resolvido e principal insight | Python, SQL |
+| [Nome do Projeto 2](link-do-repo) | Descrição curta do problema resolvido e principal insight | Power BI, Excel |
+
+<br/>
+
+### 🛠️ Tecnologias que Utilizo
 <div align="center"><br/>
 <img alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
@@ -28,4 +40,12 @@
 <img alt="Espanhol" src="https://img.shields.io/badge/Espanhol%20B2-Instituto%20Cervantes-yellow?style=for-the-badge" />
 </div><br/>
 
+### 📊 GitHub Stats
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunogomes&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bbrunogomes&theme=tokyonight)
+
+<br/>
+
 Apaixonado por tecnologias e fascinado pelo poder transformador dos dados.
+
+![Profile views](https://komarev.com/ghpvc/?username=bbrunogomes&color=blue)
