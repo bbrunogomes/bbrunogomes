@@ -29,10 +29,4 @@ Cientista de Dados apaixonado por transformar dados brutos em decisões estraté
 - 🇪🇸 Espanhol - B2 (Instituto Cervantes)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bbrunogomes&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=bbrunogomes&theme=tokyonight)
 
-<br/>
-
-Apaixonado por tecnologias e fascinado pelo poder transformador dos dados.
-
-![Profile views](https://komarev.com/ghpvc/?username=bbrunogomes&color=blue)
